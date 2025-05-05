@@ -24,7 +24,7 @@ This project investigates the association between income levels and high blood p
 - Conducted geospatial analysis using `geopandas` and `contextily`
 
 
-## 🔍 Key Results
+## Key Results
 
 - **Simple Regression:** Low income (%) alone explains ~20% of variance in HBP
 - **Extended Regression:**
